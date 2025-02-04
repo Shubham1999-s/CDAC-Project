@@ -1,0 +1,6 @@
+astro
+.git
+.env
+logs/
+qodo
+venv
