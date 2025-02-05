@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CDAC Yahoo Finance Project
 
 This repository is my final project for [CDAC]()'s PG-DBDA course using Airflow, MinIO, Spark and MLFlow. 
@@ -89,3 +90,6 @@ Login creds is admin:admin
 - Dockerized MLFlow Server
     - https://github.com/Toumash/mlflow-docker
     - https://www.mlflow.org/docs/latest/tracking.html#scenario-4-mlflow-with-remote-tracking-server-backend-and-artifact-stores
+=======
+# CDAC-Project
+>>>>>>> 77acde9c499f74817ca0469144fa24be339e1486
